@@ -1,0 +1,21 @@
+
+Student ID: 24-56081-1
+Name: Koushik Ranjan Roy
+Department: CSEs
+
+Library Book Records
+
+Book 1:
+Book Name: Introduction to Programming
+Author: John Smith
+Book ID: B001
+
+Book 2:
+Book Name: Software Engineering
+Author: Ian Sommerville
+Book ID: B002
+
+Book 3:
+Book Name: Database Management System
+Author: Abraham Silberschatz
+Book ID: B003
